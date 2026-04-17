@@ -50,7 +50,8 @@ master-resume/
 │
 ├── upload-cv/
 │   ├── TC-13-TC-17-upload-flow.md
-How to Run Tests
+
+##How to Run Tests
 Clone the repository
 git clone <repo-url>
 Open test case files
