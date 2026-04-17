@@ -58,10 +58,10 @@ master-resume/
     └── TC-13-TC-17-upload-flow.md
 ```
 ## How to Run Tests
-Clone the repository:
-Open the specific test case files you wish to execute.
-Execute each test step in the order provided.
-Compare the actual results in the system against the expected output in the documentation.
+* Clone the repository:
+* Open the specific test case files you wish to execute.
+* Execute each test step in the order provided.
+* Compare the actual results in the system against the expected output in the documentation.
 
 ## Status
 All test cases are designed for manual execution. Status values (Pass/Fail/Blocked) are maintained within the individual test case files.
