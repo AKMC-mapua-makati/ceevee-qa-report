@@ -2,4 +2,4 @@
 
 | Test ID | Test Title | Description | Steps | Expected Output | Status |
 |--------|------------|-------------|-------|----------------|--------|
-| TC-04 | Summary Field | Validate summary save | 1. Enter summary 2. Save | Input should be saved correctly | Passed |
+| TC-04 | Summary Save Functionality | Verify that summary input is saved correctly | 1. Enter summary 2. Save | Summary should be stored and displayed correctly |  |
