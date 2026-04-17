@@ -58,10 +58,17 @@ master-resume/
     └── TC-13-TC-17-upload-flow.md
 ```
 ## How to Run Tests
-* Clone the repository:
+
+* Clone the repository: git clone https://github.com/AKMC-mapua-makati/ceevee-qa-report.git
 * Open the specific test case files you wish to execute.
 * Execute each test step in the order provided.
 * Compare the actual results in the system against the expected output in the documentation.
 
 ## Status
-All test cases are designed for manual execution. Status values (Pass/Fail/Blocked) are maintained within the individual test case files.
+
+All test cases are designed for manual execution. Status values are maintained within the individual test case files using the following definitions:
+
+* **Pass:** Meets expected results.
+* **Fail:** Deviates from expected results.
+* **Blocked:** Cannot be tested due to dependencies.
+* **Untested / WIP:** Not yet executed.
