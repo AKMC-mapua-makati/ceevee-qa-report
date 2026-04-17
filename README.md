@@ -70,5 +70,4 @@ All test cases are designed for manual execution. Status values are maintained w
 
 * **Pass:** Meets expected results.
 * **Fail:** Deviates from expected results.
-* **Blocked:** Cannot be tested due to dependencies.
 * **Untested / WIP:** Not yet executed.
